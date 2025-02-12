@@ -1,0 +1,9 @@
+name: drought
+channels:
+  - conda-forge
+  - defaults
+  - R
+dependencies:
+  - R-base=4.4.2
+  - r-essentials=4.4
+  - r-tidyverse=2.0.0
